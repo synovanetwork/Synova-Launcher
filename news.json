@@ -1,5 +1,16 @@
 {
   "items": [
-    { "id": "n1", "title": "Synova Launcher вышел!", "description": "Первый релиз лаунчера.", "date": "2026-09-05" }
+    {
+      "id": "n2",
+      "title": "Ивент на выходных!",
+      "description": "Собираемся в Discord, будем строить спавн.",
+      "date": "2026-09-06"
+    },
+    {
+      "id": "n1",
+      "title": "Synova Launcher вышел!",
+      "description": "Первый релиз лаунчера.",
+      "date": "2026-09-05"
+    }
   ]
 }
