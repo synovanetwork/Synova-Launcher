@@ -1,6 +1,6 @@
 {
-  "latest": "1.4.8.8",
+  "latest": "1.0.0",
   "url": "https://raw.githubusercontent.com/synovanetwork/synova-launcher/main/SynovaLauncher.exe",
-  "sha256": "327dbe2b588d430f014470012bc3765d83741ce30f1bb5db974a1a478e7caadd",
+  "sha256": "8568bda68e0ef7e7008a0fbdece0654d1635ad06065c4e9d0b7009db6cbfa261",
   "notes": "Первый релиз"
 }
